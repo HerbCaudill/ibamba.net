@@ -1,0 +1,77 @@
+H1, H2, H3, H4, P, FORM, OL, UL
+{	
+	font-size: 8pt; 
+	line-height: 30px; 
+	font-family: verdana,arial,helvetica,geneva,sans-serif
+}
+
+
+H1			
+{	
+	font-size:13pt; 
+	font-weight:bold; 
+	color:black;
+	margin-bottom:0
+}
+
+
+H2			
+{	
+	font-size:large; 
+	font-family:'times new roman',times,georgia,serif; font-size:1.3em; 
+	font-weight:normal; 
+}
+
+
+H3			
+{	
+	font-weight:bold; 
+	color:#FE9E32;
+	margin-top:0;
+}
+
+
+H4			
+{	
+	font-weight:bold; 
+}
+
+
+HR
+{
+	color:#FE9E32;
+	height:1px;
+}
+
+
+A
+{
+	font-weight:bold;
+	text-decoration:none;
+	color:#FE9E32
+}
+
+
+A:hover 	
+{	
+	text-decoration:underline
+}
+
+
+.caption	
+{	
+	font-weight:bold;
+	color:#FE9E32; 
+}
+
+.footer
+{
+	border-top:1px solid #FE9E32;
+	margin:0;
+	padding:0;
+}
+
+.footertext
+{	
+	padding:15px;
+}

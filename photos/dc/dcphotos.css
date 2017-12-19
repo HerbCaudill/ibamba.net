@@ -1,0 +1,14 @@
+
+BODY 	{	background-color:black; }
+
+A		{	color:#999966; text-decoration:none;}
+		
+td, p		{	font-family:verdana,arial,helvetica,geneva,sans-serif; font-size:11px; color:white}
+
+H1		{	font-family:verdana,arial,helvetica,geneva,sans-serif; font-size:24px; font-weight:bold; color:#666666; color:999966;}
+
+H2		{	font-family:'times new roman',times,georgia,serif; font-size:14px; line-height:18px; font-weight:normal; color:white;}
+
+H3		{	font-family:verdana,arial,helvetica,geneva,sans-serif; font-size:10px; font-weight:bold; color:#666666; color:white;}
+
+H4		{	font-family:verdana,arial,helvetica,geneva,sans-serif; font-size:10px; font-weight:bold; color:white;}
