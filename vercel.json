@@ -1,0 +1,9 @@
+{
+  "redirects": [
+    {
+      "source": ":path/default.htm",
+      "destination": ":path/index.html"
+    }
+  ],
+  "trailingSlash": true
+}
